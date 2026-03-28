@@ -1,0 +1,11 @@
+{
+  "name": "lizixin-resume",
+  "version": "1.0.0",
+  "description": "黎紫馨个人简历网站",
+  "scripts": {
+    "start": "echo 'Static site - no build required'"
+  },
+  "keywords": ["resume", "portfolio"],
+  "author": "黎紫馨",
+  "license": "MIT"
+}
